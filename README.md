@@ -2,7 +2,7 @@
 
 ## Core technologies used to create, store, find, read, transform, re-use, and preserve declarative markup
 
-Although a lot of platforms and tools for declarative markup exist today, there is still a lot to be done to bring the [usage of declarative markup](http://www.markupdeclaration.org/)  to its full potential. 
+Although a lot of platforms and tools for declarative markup exist today, there is still a lot to be done to bring the [usage of declarative markup](https://markupdeclaration.org/)  to its full potential. 
 
 Examples include XML support in the browser, XML authoring for end-users, and much more. 
 
